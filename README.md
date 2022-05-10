@@ -1,4 +1,4 @@
-# Shoes App
+# Calzado Santi App
 Aplicación creada en React Native para la venta y distribución de zapatos, 
 permitiendo ver catálogos, localización de tiendas, generar carrito de compras, 
 visualizar tamaños de calzado, etc.
